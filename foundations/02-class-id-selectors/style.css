@@ -1,0 +1,18 @@
+.class1 {
+    background-color: rgb(237, 152, 152);
+}
+
+.class2 {
+    font-size: 32px;
+}
+
+#id1 {
+    color:blue;
+    font-size: 48px;
+}
+
+#id2 {
+    background-color: chartreuse;
+    font-weight: bold;
+    font-size: 32px;
+}

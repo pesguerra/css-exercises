@@ -1,0 +1,13 @@
+.butt1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 72px;
+}
+
+.yes {
+    background-color: black;
+    color:white;
+}
+
+.no {
+    background-color: yellow;
+}
